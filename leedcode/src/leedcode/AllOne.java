@@ -6,7 +6,7 @@ import java.util.HashSet;
 import java.util.List;
 import java.util.TreeMap;
 
-
+//change
 public class AllOne {
 	private class AOlink{
 		AOlink last=null;
