@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-public class num022 {
+public class num022 {//
 
     //iterative
     public List<String> generateParenthesis(int n)
