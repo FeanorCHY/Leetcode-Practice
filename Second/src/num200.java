@@ -107,7 +107,7 @@ public class num200 {
     //     }
     // }
     
-
+    //bad answer!!
    public int numIslands(char[][] grid) {
         if(grid == null || grid.length == 0) {
             return 0;
