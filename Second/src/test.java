@@ -43,5 +43,11 @@ public class test {
 		
 		
 	}
+	public class Process implements Runnable {
+        @Override
+        public void run() {
+        	System.out.println(1);
+        }
+    }
 
 }
