@@ -50,6 +50,8 @@ public class num041 {
         
     }
 	public static void main(String[] args) {
+		String str="ababcdababce";
+		int x=str.indexOf("ababce");
 		int[] test={2,1};
 		num041 sol=new num041();
 		System.out.println(sol.firstMissingPositive(test));
