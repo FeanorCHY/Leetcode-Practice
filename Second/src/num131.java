@@ -172,7 +172,7 @@ public class num131 {
     }
 	public static void main(String[] args) {
 		num131 sol=new num131();
-		System.out.println(sol.partition("sssssssssssss"));
+		System.out.println(sol.partition("ssssss").size());
 		Iterator<Integer> i=new ArrayList<Integer>().iterator();
 	}
 
